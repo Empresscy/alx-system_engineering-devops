@@ -1,1 +1,3 @@
-readme is good for knowing what you are doing
+What is it you think you are doing
+
+
